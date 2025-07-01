@@ -1,0 +1,13 @@
+streamlit
+langchain
+langgraph
+langchain-community
+langchain-ollama
+chromadb
+beautifulsoup4
+langchain-text-splitters
+pypdf
+python-docx
+unstructured[local-inference]
+pydantic
+typing-extensions
