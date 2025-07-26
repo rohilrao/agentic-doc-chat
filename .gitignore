@@ -1,3 +1,4 @@
 agenticrag/*
 *pycache/*
 src/starter_notebooks/langchain/models*
+*.txt*
